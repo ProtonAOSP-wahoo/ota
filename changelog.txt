@@ -1,0 +1,13 @@
+12.4.0:
+* Smart Pixels
+* Fix LSPosed Manager crashes
+* Update Now Playing database
+
+12.3.2:
+* At a glance on lockscreen/aod
+* DT2S lockscreen/statusbar
+* GameSpace
+* 3 Fingers Screenshot
+* Advanced Reboot
+* Volume long press skip tracks
+* Remove FP unlock animation
