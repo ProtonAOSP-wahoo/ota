@@ -19,7 +19,8 @@ timestamp=`sed -n $linenr'p' < $buildprop | cut -d'=' -f2`
 zip_only=`basename "$zip_name"`
 md5=`md5sum "$zip_name" | cut -d' ' -f1`
 size=`stat -c "%s" "$zip_name"`
-version=`echo "$zip_only" | cut -d'-' -f2`
+ver=`echo "$zip_only" | cut -d'-' -f2`
+version=$ver-NS
 echo "done."
 echo '{
   "response": [
