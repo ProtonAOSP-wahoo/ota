@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "ProtonAOSP-12.4.0-NS-walleye-20220619-2254-gapps.zip",
-        "download": "https://sourceforge.net/projects/wahooo/files/ProtonAOSP/walleye/ProtonAOSP-12.4.0-NS-walleye-20220619-2254-gapps.zip/download",
-        "datetime": 1655679069,
-        "md5": "330ea3a31b8762992dd4059680523888",
-        "size": 1204076513,
-        "version": "12.4.0-NS"
+        "filename": "ProtonAOSP-12.4.1-NS-walleye-20220710-0217-gapps.zip",
+        "download": "https://sourceforge.net/projects/wahooo/files/ProtonAOSP/walleye/gapps/ProtonAOSP-12.4.1-NS-walleye-20220710-0217-gapps.zip/download",
+        "datetime": 1657419293,
+        "md5": "70992054bb33d7c78b044bb24556685b",
+        "size": 1235468259,
+        "version": "12.4.1-NS"
     }
   ]
 }

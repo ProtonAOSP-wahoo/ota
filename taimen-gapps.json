@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "ProtonAOSP-12.4.0-NS-taimen-20220619-2200-gapps.zip",
-        "download": "https://sourceforge.net/projects/wahooo/files/ProtonAOSP/taimen/ProtonAOSP-12.4.0-NS-taimen-20220619-2200-gapps.zip/download",
-        "datetime": 1655675795,
-        "md5": "44e0465d97942cd0e7fdbcdf9332f03d",
-        "size": 1209570372,
-        "version": "12.4.0-NS"
+        "filename": "ProtonAOSP-12.4.1-NS-taimen-20220710-0133-gapps.zip",
+        "download": "https://sourceforge.net/projects/wahooo/files/ProtonAOSP/taimen/gapps/ProtonAOSP-12.4.1-NS-taimen-20220710-0133-gapps.zip/download",
+        "datetime": 1657416584,
+        "md5": "229a8c460507620e8741814a7348e0af",
+        "size": 1241153322,
+        "version": "12.4.1-NS"
     }
   ]
 }
