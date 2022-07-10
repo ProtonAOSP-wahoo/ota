@@ -1,3 +1,8 @@
+12.4.1:
+* Add Fonts
+* Add Icon Packs
+* Add iconpack and font selector in Styles app
+
 12.4.0:
 * Smart Pixels
 * Fix LSPosed Manager crashes
