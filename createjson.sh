@@ -26,7 +26,7 @@ echo '{
   "response": [
     {
         "filename": "'$zip_only'",
-        "download": "https://sourceforge.net/projects/wahooo/files/ProtonAOSP/'$device'/'$zip_only'/download",
+        "download": "https://sourceforge.net/projects/wahooo/files/ProtonAOSP/'$device'/'$variant'/'$zip_only'/download",
         "datetime": '$timestamp',
         "md5": "'$md5'",
         "size": '$size',

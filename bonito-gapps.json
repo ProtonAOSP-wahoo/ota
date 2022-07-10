@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "ProtonAOSP-12.4.0-NS-bonito-20220619-2037-gapps.zip",
-        "download": "https://sourceforge.net/projects/wahooo/files/ProtonAOSP/bonito/ProtonAOSP-12.4.0-NS-bonito-20220619-2037-gapps.zip/download",
-        "datetime": 1655667581,
-        "md5": "8a04fa09d5f41f9f6b4fe86df47e8f6a",
-        "size": 1297213560,
-        "version": "12.4.0-NS"
+        "filename": "ProtonAOSP-12.4.1-NS-bonito-20220710-0017-gapps.zip",
+        "download": "https://sourceforge.net/projects/wahooo/files/ProtonAOSP/bonito/gapps/ProtonAOSP-12.4.1-NS-bonito-20220710-0017-gapps.zip/download",
+        "datetime": 1657412056,
+        "md5": "37b5c8a240e38d420305854421ff3bde",
+        "size": 1600776953,
+        "version": "12.4.1-NS"
     }
   ]
 }
