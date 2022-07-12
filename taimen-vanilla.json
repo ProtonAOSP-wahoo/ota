@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "ProtonAOSP-12.4.0-NS-taimen-20220621-1037-vanilla.zip",
-        "download": "https://sourceforge.net/projects/wahooo/files/ProtonAOSP/taimen/ProtonAOSP-12.4.0-NS-taimen-20220621-1037-vanilla.zip/download",
-        "datetime": 1655807630,
-        "md5": "9c815cdda1fe1f7984dc5305648c1d66",
-        "size": 899607388,
-        "version": "12.4.0-NS"
+        "filename": "ProtonAOSP-12.4.1-NS-taimen-20220710-1602-vanilla.zip",
+        "download": "https://sourceforge.net/projects/wahooo/files/ProtonAOSP/taimen/vanilla/ProtonAOSP-12.4.1-NS-taimen-20220710-1602-vanilla.zip/download",
+        "datetime": 1657468720,
+        "md5": "dc7f697674755d6da3e7699371c7e3f1",
+        "size": 900890600,
+        "version": "12.4.1-NS"
     }
   ]
 }

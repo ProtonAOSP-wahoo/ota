@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "ProtonAOSP-12.4.0-NS-walleye-20220621-1152-vanilla.zip",
-        "download": "https://sourceforge.net/projects/wahooo/files/ProtonAOSP/walleye/ProtonAOSP-12.4.0-NS-walleye-20220621-1152-vanilla.zip/download",
-        "datetime": 1655812115,
-        "md5": "2349a007d7f91476a90ed91f4f43cf87",
-        "size": 893720837,
-        "version": "12.4.0-NS"
+        "filename": "ProtonAOSP-12.4.1-NS-walleye-20220710-1857-vanilla.zip",
+        "download": "https://sourceforge.net/projects/wahooo/files/ProtonAOSP/walleye/vanilla/ProtonAOSP-12.4.1-NS-walleye-20220710-1857-vanilla.zip/download",
+        "datetime": 1657479302,
+        "md5": "d10370aa8f9688c0cbc0776c573b23ab",
+        "size": 894794741,
+        "version": "12.4.1-NS"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "filename": "ProtonAOSP-12.4.0-NS-sargo-20220621-1500-vanilla.zip",
-        "download": "https://sourceforge.net/projects/wahooo/files/ProtonAOSP/sargo/ProtonAOSP-12.4.0-NS-sargo-20220621-1500-vanilla.zip/download",
-        "datetime": 1655823406,
-        "md5": "23c08934325e541a7f2326cc1d3a302e",
-        "size": 1000188340,
-        "version": "12.4.0-NS"
+        "filename": "ProtonAOSP-12.4.1-NS-sargo-20220710-1947-vanilla.zip",
+        "download": "https://sourceforge.net/projects/wahooo/files/ProtonAOSP/sargo/vanilla/ProtonAOSP-12.4.1-NS-sargo-20220710-1947-vanilla.zip/download",
+        "datetime": 1657482258,
+        "md5": "3df9e3a4dcfe1cffb6f39564fbcdfe0a",
+        "size": 998391598,
+        "version": "12.4.1-NS"
     }
   ]
 }
